@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Friends Locator</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="invitation_message">install the app now, and track your friends and family</string>
+    <string name="invitation_deep_link">http//:google.com</string>
+    <string name="invitation_cta">install</string>
+</resources>
